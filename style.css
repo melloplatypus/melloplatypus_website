@@ -1,0 +1,178 @@
+body {
+ background-color: #fff;
+ margin: 40px;
+ font-family: Georgia, Sans-serif;
+ font-size: 13px;
+}
+
+a {
+ color: #4183C4;
+ background-color: transparent;
+ text-decoration: none;
+ border-bottom: 1px solid #4183C4;
+ font-weight: normal;
+}
+
+.bigger {
+	font-size: 14.5px;
+}
+
+h1 {
+ font-family: Georgia, Sans-serif;
+ font-size: 45px;
+ background-color: transparent;
+ background-repeat:no-repeat;
+ background-position: 333px 0px;
+ border-bottom: 1px solid #D0D0D0;
+ margin: 24px 0 2px 0;
+
+}
+
+#dino {
+	float: right;
+	background-image: url(images/big_dino.png);
+	background-color: transparent;
+	background-repeat: no-repeat;
+}
+
+#featured {
+    background-color: #f9f9f9;
+    border: 1px solid #D0D0D0;
+    color: #002166;
+    display: block;
+    margin: 14px 0 14px 0;
+    padding: 12px 10px 12px 10px;
+	font-size: 15px;
+}
+
+#featured strong {
+	font-size: 13px;
+	color: #bb1100;
+}
+
+#featured a {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#featured .divider {
+  color: #DDD;
+}
+
+#description {
+  font-size: 16px;
+}
+
+#description p {
+  line-height: 1.3em;
+}
+
+.highlight li a {
+  background-color: rgba(255, 255, 0, 0.33);
+  padding: 2px;
+}
+
+.highlight .summary {
+  border: 1px solid rgb(241, 241, 241);
+  display: block;
+  margin: 14px 0 14px 0;
+  padding: 12px 10px 12px 10px;
+  max-width: 600px;
+  line-height: 1.3em;
+}
+
+.summary li {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.comment {
+	 font-family: Verdana, Sans-serif;
+	 font-size: 11px;
+	 background-color: #f9f9f9;
+	 border: 1px solid #D0D0D0;
+	 display: block;
+	 margin-bottom: 10px;
+	 padding: 10px 10px 10px 10px;
+	 width: 579px;
+}
+
+.comment_meta {
+	 font-size: 8pt;
+	 color: black;
+	 padding-bottom: 5px;
+}
+
+blockquote{font-size: 11px;margin:0px;padding:5px 45px;}
+
+ul {
+	list-style: none;
+}
+li {
+	margin-top: 1em;
+}
+
+.narrowish {
+  width: 750px;
+}
+.booky_list {
+	width: 750px;
+	line-height: 1.5em;
+}
+.booky_list li {
+	margin-top: 0px;
+}
+.booky_list ul {
+	list-style: disc inside;
+	font-size: 12px;
+}
+
+.booky_list ul li {
+	margin-bottom: 3px;
+}
+p {
+	line-height: 1.8em;
+}
+
+#code-list li {
+	margin-bottom: 5px;
+}
+.post {
+	width: 600px;
+	border-bottom: 1px solid #D0D0D0;
+	padding-bottom: 10px;
+}
+
+.yc {width: 800px;}
+.yc #blockquote{background:url(http://www.facebook.com/images/notes/blockquote.gif) no-repeat 0px 4px;margin:0px;padding:5px 25px; width: 800px; line-height: 1.8em;}
+
+div#footer {
+margin: 10px 0 0px;
+padding-bottom: 0px;
+}
+ul.footer_nav {
+margin-top: 8px;
+text-align: center;
+}
+ul.footer_nav li {
+margin-right: 8px;
+color: #aaa;
+}
+ul.footer_nav a {
+font-size: 93%;
+color: #888;
+margin-right: 8px;
+border-bottom: 1px solid #888;
+line-height: 0px;
+}
+	
+pre {
+  font-family: Georgia, monospaced;
+  display: inline;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+h2, h3 {
+	margin-bottom: 0px;
+}
