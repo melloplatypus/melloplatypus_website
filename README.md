@@ -10,3 +10,10 @@ Hello world
 
 1. and we will see
 2. if my terminal knowledge grows
+
+# Git repository update
+git init
+git pull -q
+git add .
+git commit -m “>>>”
+git push
